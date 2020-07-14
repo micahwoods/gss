@@ -1,0 +1,982 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{bock2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3380907d104842e1e7281fffaea56900}{%
+           family={Bock},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ce4892e5acaf098d8beaa5ab3630dbb0}{%
+           family={Easton},
+           familyi={E\bibinitperiod},
+           given={Z.\bibnamedelimi M.},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{82f51ca4249ac675702dbfab1183cfcc}
+      \strng{fullhash}{82f51ca4249ac675702dbfab1183cfcc}
+      \strng{bibnamehash}{82f51ca4249ac675702dbfab1183cfcc}
+      \strng{authorbibnamehash}{82f51ca4249ac675702dbfab1183cfcc}
+      \strng{authornamehash}{82f51ca4249ac675702dbfab1183cfcc}
+      \strng{authorfullhash}{82f51ca4249ac675702dbfab1183cfcc}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Environ. Mgmt.}
+      \field{title}{Export of nitrogen and phosphorus from golf courses: A review}
+      \field{volume}{255}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.jenvman.2019.109817
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S030147971931535X
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S030147971931535X
+      \endverb
+      \keyw{Turfgrass,Leaching,Runoff,Nonpoint source pollution,Nutrients}
+    \endentry
+    \entry{carrow-fertility-book}{book}{}
+      \name{author}{3}{}{%
+        {{hash=3159371b7c4630de38f2538596f5328f}{%
+           family={Carrow},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=bbd6fc9b2731be86d977e2f2ee5ec7f3}{%
+           family={Waddington},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=8d864119cab1fb3c214c7c89191770fd}{%
+           family={Rieke},
+           familyi={R\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons}%
+      }
+      \strng{namehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{fullhash}{ad474cec9c4cfb31bdfb4855c9088b81}
+      \strng{bibnamehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{authorbibnamehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{authornamehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{authorfullhash}{ad474cec9c4cfb31bdfb4855c9088b81}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Turfgrass Soil Fertility and Chemical Problems}}
+      \field{year}{2001}
+    \endentry
+    \entry{clarifying-3}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3159371b7c4630de38f2538596f5328f}{%
+           family={Carrow},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=5d0e4c90b29813ad9a9998454aaf5268}{%
+           family={Stowell},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9a488ebace163daedfb91d966d32b929}{%
+           family={Gelernter},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=65c85dc43bbf4ea9a6c7721bae9880e4}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=433413eb66dd1c15683b6318dfc81de2}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8771956850d6e01e6374bc8ca909b5d1}{%
+           family={Skorulski},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{fullhash}{af39e6d5b0de3687c8b60e6498728bf2}
+      \strng{bibnamehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{authorbibnamehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{authornamehash}{b37639da8544936c9f23d1ac4fb7295b}
+      \strng{authorfullhash}{af39e6d5b0de3687c8b60e6498728bf2}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Golf Course Mgmt.}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Clarifying soil testing: {III}. {SLAN} sufficiency ranges and recommendations}
+      \field{volume}{72}
+      \field{year}{2004}
+      \field{pages}{194\bibrangedash 198}
+      \range{pages}{5}
+      \keyw{soil test}
+    \endentry
+    \entry{fitdist}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c0db172a9e2b9097c302656a88c7e8ac}{%
+           family={Delignette-Muller},
+           familyi={D\bibinithyphendelim M\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d518ba2b1a4a5262a3d35e591a5d42c6}{%
+           family={Dutang},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5dbfe01fe8c129a6320a4c91e2e77197}
+      \strng{fullhash}{5dbfe01fe8c129a6320a4c91e2e77197}
+      \strng{bibnamehash}{5dbfe01fe8c129a6320a4c91e2e77197}
+      \strng{authorbibnamehash}{5dbfe01fe8c129a6320a4c91e2e77197}
+      \strng{authornamehash}{5dbfe01fe8c129a6320a4c91e2e77197}
+      \strng{authorfullhash}{5dbfe01fe8c129a6320a4c91e2e77197}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Statistical Software}
+      \field{number}{4}
+      \field{title}{{fitdistrplus}: An {R} package for fitting distributions}
+      \field{volume}{64}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+      \verb{urlraw}
+      \verb http://www.jstatsoft.org/v64/i04/
+      \endverb
+      \verb{url}
+      \verb http://www.jstatsoft.org/v64/i04/
+      \endverb
+      \endentry
+       \entry{ericsson2012a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e472a945a02d5d151af842642d0e45f8}{%
+           family={Ericsson},
+           familyi={E\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8060c429e73f2f8a9b4104578f136474}{%
+           family={Blombäck},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ef29e010cf3796c66b8027ddc636801b}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{fullhash}{c8a0ff65168789ac30024e9cd9f87245}
+      \strng{bibnamehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{authorbibnamehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{authornamehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{authorfullhash}{c8a0ff65168789ac30024e9cd9f87245}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Agriculturae Scandinavica, Section B — Soil \& Plant Science}
+      \field{title}{{Demand-driven fertilization. Part I: nitrogen productivity in four high-maintenance turf grass species}}
+      \field{volume}{62:sup1}
+      \field{year}{2012}
+      \field{pages}{113\bibrangedash 121}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/09064710.2012.682735
+      \endverb
+    \endentry
+    \entry{ericsson2012b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e472a945a02d5d151af842642d0e45f8}{%
+           family={Ericsson},
+           familyi={E\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8060c429e73f2f8a9b4104578f136474}{%
+           family={Blombäck},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d1242394950b7623b79482b13a707a60}{%
+           family={Kvalbein},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef29e010cf3796c66b8027ddc636801b}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{fullhash}{5c0c419ec9327eb0954b50e0e6d59114}
+      \strng{bibnamehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{authorbibnamehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{authornamehash}{5e955a8f80d6f424e30e776166e969c7}
+      \strng{authorfullhash}{5c0c419ec9327eb0954b50e0e6d59114}
+      \field{extraname}{2}
+      \field{sortinit}{b}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Agriculturae Scandinavica, Section B — Soil \& Plant Science}
+      \field{title}{{Demand-driven fertilization. Part II: influence of demand-driven fertilization on shoot nitrogen concentration, growth rate, fructan storage and playing quality of golf turf}}
+      \field{volume}{62:sup1}
+      \field{year}{2012}
+      \field{pages}{139\bibrangedash 149}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/09064710.2012.682736
+      \endverb
+    \endentry
+    \entry{ncr2012}{inbook}{}
+      \name{author}{3}{}{%
+        {{hash=7af0b9db60a1882df74dac0df7f786c2}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2299e6dda6eb934693f8ffea382aa22c}{%
+           family={Beegle},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3d9d76ab5b733f08fda94ecede8f3985}{%
+           family={Denning},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {NCERA-13 Soil Testing}%
+        {Plant Analysis Committee}%
+      }
+      \strng{namehash}{3f30ad09fa25378cf9bf7303e5b93f1c}
+      \strng{fullhash}{7d72fa36c4f6e0cc0761892fa8b85f97}
+      \strng{bibnamehash}{3f30ad09fa25378cf9bf7303e5b93f1c}
+      \strng{authorbibnamehash}{3f30ad09fa25378cf9bf7303e5b93f1c}
+      \strng{authornamehash}{3f30ad09fa25378cf9bf7303e5b93f1c}
+      \strng{authorfullhash}{7d72fa36c4f6e0cc0761892fa8b85f97}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Recommended Chemical Soil Test Procedures for the North Central Region}}
+      \field{title}{Phosphorus}
+      \field{year}{2012}
+      \field{pages}{27\bibrangedash 32}
+      \range{pages}{6}
+    \endentry
+    \entry{Frank2013}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=0a9cd59f1e363559d5e0228abdd46d35}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={K.\bibnamedelimi W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b8473717d1b3a71f704fb8042f54f07b}{%
+           family={Guertal},
+           familyi={G\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madison, WI}%
+      }
+      \list{publisher}{1}{%
+        {Am. Soc. Agron.}%
+      }
+      \strng{namehash}{5a49b7356fd84712229dc66e68ffeae8}
+      \strng{fullhash}{5a49b7356fd84712229dc66e68ffeae8}
+      \strng{bibnamehash}{5a49b7356fd84712229dc66e68ffeae8}
+      \strng{authorbibnamehash}{5a49b7356fd84712229dc66e68ffeae8}
+      \strng{authornamehash}{5a49b7356fd84712229dc66e68ffeae8}
+      \strng{authorfullhash}{5a49b7356fd84712229dc66e68ffeae8}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Turfgrass: Biology, Use, and Management}
+      \field{title}{Potassium and phosphorus research in turfgrass}
+      \field{year}{2013}
+      \field{pages}{493\bibrangedash 519}
+      \range{pages}{27}
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.2134/agronmonogr56.c14
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2134/agronmonogr56.c14
+      \endverb
+    \endentry
+    \entry{gavlak2005}{book}{}
+      \name{author}{3}{}{%
+        {{hash=398cdb96a56197b604dedd9e8f3a9697}{%
+           family={Gavlak},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bac2a7cfb3fdf4a48d0db2cc6ff7aa08}{%
+           family={Horneck},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e2d1a13c4c552c482c3e070b26d55d0f}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WREP}%
+      }
+      \strng{namehash}{2212ed553692ca6d64e38f84f3c87119}
+      \strng{fullhash}{65769d40857893a411710bf8cf67fd29}
+      \strng{bibnamehash}{2212ed553692ca6d64e38f84f3c87119}
+      \strng{authorbibnamehash}{2212ed553692ca6d64e38f84f3c87119}
+      \strng{authornamehash}{2212ed553692ca6d64e38f84f3c87119}
+      \strng{authorfullhash}{65769d40857893a411710bf8cf67fd29}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{{Soil, Plant and Water Reference Methods for the Western Region}}
+      \field{year}{2005}
+    \endentry
+    \entry{gelernter2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9a488ebace163daedfb91d966d32b929}{%
+           family={Gelernter},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5d0e4c90b29813ad9a9998454aaf5268}{%
+           family={Stowell},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=abf6d4c1df42ad0ebcaa0125fee74668}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=945389083be5b90b1ff869a84a997ca8}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a533620b061b243dcf344645c3dcdc5}
+      \strng{fullhash}{058d4ab71b1752771faa5fe9ed88f82f}
+      \strng{bibnamehash}{4a533620b061b243dcf344645c3dcdc5}
+      \strng{authorbibnamehash}{4a533620b061b243dcf344645c3dcdc5}
+      \strng{authornamehash}{4a533620b061b243dcf344645c3dcdc5}
+      \strng{authorfullhash}{058d4ab71b1752771faa5fe9ed88f82f}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Crop Forage Turfgrass Mgmt.}
+      \field{title}{Documenting trends in nutrient use and conservation practices on {U.S.} golf courses}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.2134/cftm2015.0225
+      \endverb
+    \endentry
+    \entry{kreuser2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4326680f999ef9f133cba42ef22bfc58}{%
+           family={Kreuser},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=069136120d9478efee8517b4ae84a50c}{%
+           family={Pagliari},
+           familyi={P\bibinitperiod},
+           given={P.\bibnamedelimi H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d4899d6fdd4eeb7aae3f16539802fc1c}{%
+           family={Soldat},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{119e5646ca80de90af12872a94f0b277}
+      \strng{fullhash}{53989b00de61a0c519b269e2d9bc68d6}
+      \strng{bibnamehash}{119e5646ca80de90af12872a94f0b277}
+      \strng{authorbibnamehash}{119e5646ca80de90af12872a94f0b277}
+      \strng{authornamehash}{119e5646ca80de90af12872a94f0b277}
+      \strng{authorfullhash}{53989b00de61a0c519b269e2d9bc68d6}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Crop Sci.}
+      \field{title}{Creeping bentgrass putting green {M}ehlich-3 soil test phosphorus requirements}
+      \field{volume}{52}
+      \field{year}{2012}
+      \field{pages}{1385\bibrangedash 1392}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2135/cropsci2011.08.0416
+      \endverb
+    \endentry
+    \entry{kussow-n-demand}{article}{}
+      \name{author}{4}{}{%
+        {{hash=db9e0150c40e8207152e6f0e5a7ffa5a}{%
+           family={Kussow},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d4899d6fdd4eeb7aae3f16539802fc1c}{%
+           family={Soldat},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4326680f999ef9f133cba42ef22bfc58}{%
+           family={Kreuser},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3301bc7335a984f88522296c7ffc11df}{%
+           family={Houlihan},
+           familyi={H\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3afc8773313b4e8cc61b2a66b8e1977f}
+      \strng{fullhash}{9a1899d09cee838a841ccb9c733c7c9c}
+      \strng{bibnamehash}{3afc8773313b4e8cc61b2a66b8e1977f}
+      \strng{authorbibnamehash}{3afc8773313b4e8cc61b2a66b8e1977f}
+      \strng{authornamehash}{3afc8773313b4e8cc61b2a66b8e1977f}
+      \strng{authorfullhash}{9a1899d09cee838a841ccb9c733c7c9c}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ISRN} Agronomy}
+      \field{title}{Evidence, regulation, and consequences of nitrogen-driven nutrient demand by turfgrass}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.5402/2012/359284
+      \endverb
+      \verb{urlraw}
+      \verb http://www.hindawi.com/isrn/agronomy/2012/359284/
+      \endverb
+      \verb{url}
+      \verb http://www.hindawi.com/isrn/agronomy/2012/359284/
+      \endverb
+    \endentry
+    \entry{landschoot2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8081ddb0d398b48f278e0f4362fb073b}{%
+           family={Landschoot},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a630d042fa14b83c51ec8095ac00e56f}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8843e3006f6129065876cada12bd6586}{%
+           family={Schwenk},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9afd6ea93cd5cc00759ab97f4a6e7078}
+      \strng{fullhash}{48806ff5b59d22b66bce6e2d1560edea}
+      \strng{bibnamehash}{9afd6ea93cd5cc00759ab97f4a6e7078}
+      \strng{authorbibnamehash}{9afd6ea93cd5cc00759ab97f4a6e7078}
+      \strng{authornamehash}{9afd6ea93cd5cc00759ab97f4a6e7078}
+      \strng{authorfullhash}{48806ff5b59d22b66bce6e2d1560edea}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Turfgrass Sci.}
+      \field{title}{Summary of {Mehlich-3 P} data from home-lawn soil tests in {Pennsylvania}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.2134/ATS-2014-0048-BR
+      \endverb
+    \endentry
+    \entry{mehlich1984}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dedf16cc402d93940f155b79b8091fe1}{%
+           family={Mehlich},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dedf16cc402d93940f155b79b8091fe1}
+      \strng{fullhash}{dedf16cc402d93940f155b79b8091fe1}
+      \strng{bibnamehash}{dedf16cc402d93940f155b79b8091fe1}
+      \strng{authorbibnamehash}{dedf16cc402d93940f155b79b8091fe1}
+      \strng{authornamehash}{dedf16cc402d93940f155b79b8091fe1}
+      \strng{authorfullhash}{dedf16cc402d93940f155b79b8091fe1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comm. Soil Sci. Plant Anal.}
+      \field{title}{Mehlich 3 soil test extractant: a modification of {M}ehlich 2 extractant}
+      \field{volume}{15}
+      \field{year}{1984}
+      \field{pages}{1409\bibrangedash 1416}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1080/00103628409367568
+      \endverb
+    \endentry
+    \entry{ogaard2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=78f1dba10103d0192fa7f5ae3f82b71f}{%
+           family={Øgaard},
+           familyi={Ø\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=a0a68594cc37eb0359634d4c036b6c49}{%
+           family={Aamlid},
+           familyi={A\bibinitperiod},
+           given={T.\bibnamedelimi S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3b50964758e1d994c46da52c7593942}
+      \strng{fullhash}{a3b50964758e1d994c46da52c7593942}
+      \strng{bibnamehash}{a3b50964758e1d994c46da52c7593942}
+      \strng{authorbibnamehash}{a3b50964758e1d994c46da52c7593942}
+      \strng{authornamehash}{a3b50964758e1d994c46da52c7593942}
+      \strng{authorfullhash}{a3b50964758e1d994c46da52c7593942}
+      \field{sortinit}{Ø}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Phosphorus is an essential plant nutrient, but primary resources are limited and overfertilization may cause eutrophication of freshwater. Our objectives were to examine temperature effects on (a) optimal P rate for turfgrass establishment, and (b) increasing rates of foliar vs. granular P for early spring growth of established greens. Two trials, both on USGA root zones and replicated in April−May over 2 yr, were conducted in daylight phytotrons at 7, 12 and 17 °C. Experiment 1 compared 5 P rates from 0 to 0.48 g P m−2 wk−1 for creeping bentgrass establishment on a sand containing 13 mg P kg−1 (Mehlich-3). Results showed no temperature effect on the optimal P rate. Bentgrass coverage and clipping yield increased up to 0.12 and 0.24 g P m−2 wk−1, corresponding to 6 and 12\% of the N input, respectively. The concentration of P in clippings was higher at 7 than at 17 °C indicating that temperature was more limiting to shoot growth than to P uptake. A higher root/top ratio showed that plants invested more in roots under P deficiency. Experiment 2 was conducted using intact cores from a 4-yr-old creeping bentgrass (Agrostis stolonifera L.) green with a Mehlich-3 P level of 34 mg P kg−1. Results showed increased clipping yields up to 0.18 g P m−2 wk−1 and higher P uptake with granular than with foliar application, but there was no effect on turfgrass color and no interaction with temperature. Low temperatures did not justify higher P applications.}
+      \field{journaltitle}{Agron. J.}
+      \field{title}{Temperature effects on phosphorus requirements for creeping bentgrass establishment and spring growth}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1002/agj2.20288
+      \endverb
+    \endentry
+    \entry{r2020}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: A Language and Environment for Statistical Computing}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{raley2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9f877a84b5b110d0cf5d8c64ee9f5633}{%
+           family={Raley},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=f657912863b7a02cd254ea8516fdff3c}{%
+           family={Landschoot},
+           familyi={L\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=44b66934e48d70b97a3dc98718f18b8a}{%
+           family={Brosnan},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c673a17625cccdb1946639195cb29a94}
+      \strng{fullhash}{c52d88d465268cbedf22c346b1f46790}
+      \strng{bibnamehash}{c673a17625cccdb1946639195cb29a94}
+      \strng{authorbibnamehash}{c673a17625cccdb1946639195cb29a94}
+      \strng{authornamehash}{c673a17625cccdb1946639195cb29a94}
+      \strng{authorfullhash}{c52d88d465268cbedf22c346b1f46790}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Intl. Turf. Soc. Res. J.}
+      \field{title}{Influence of phosphorus and nitrogen on annual bluegrass encroachment in a creeping bentgrass putting green}
+      \field{volume}{12}
+      \field{year}{2013}
+      \field{pages}{649\bibrangedash 655}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb http://tic.msu.edu/tgif/flink?recno=223336
+      \endverb
+      \verb{url}
+      \verb http://tic.msu.edu/tgif/flink?recno=223336
+      \endverb
+    \endentry
+    \entry{soldat2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d4899d6fdd4eeb7aae3f16539802fc1c}{%
+           family={Soldat},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c6118061f536ebc4522fa441753bdb54}{%
+           family={Petrovic},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0414956ba18d7e770027cea06ad81d73}
+      \strng{fullhash}{0414956ba18d7e770027cea06ad81d73}
+      \strng{bibnamehash}{0414956ba18d7e770027cea06ad81d73}
+      \strng{authorbibnamehash}{0414956ba18d7e770027cea06ad81d73}
+      \strng{authornamehash}{0414956ba18d7e770027cea06ad81d73}
+      \strng{authorfullhash}{0414956ba18d7e770027cea06ad81d73}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Phosphorus losses from turfgrass areas are perceived to contribute to water quality problems, yet a comprehensive review of P fate in turfgrass ecosystems is lacking. According to available data in the literature, phosphorus fertilizer inputs (2–10 kg ha−1) slightly exceed the estimated outputs of phosphorus in clippings (0.4–7.5 kg ha−1). Sediment losses from turf areas are negligible, generally limited to establishment, but runoff and leaching losses of P vary from inconsequential to severe depending on rate, source, and timing of fertilizer application. Soil properties were found to have a larger effect on runoff volume than vegetative properties. Highest runoff and leaching losses of P occurred when rainfall occurred or was simulated shortly after P fertilizer application. Leaching losses of P have historically been considered relatively minor; however, the limited research results available indicate that annual P leaching losses from mineral soils (0.2–0.7 kg ha−1) are similar in magnitude to runoff-P losses from turfgrass systems. One major gap in the knowledge is how P sources other than fertilizer (i.e., soil and plant tissue) and irrigation affect runoff and leaching losses of P.}
+      \field{journaltitle}{Crop Sci.}
+      \field{number}{6}
+      \field{title}{The fate and transport of phosphorus in turfgrass ecosystems}
+      \field{volume}{48}
+      \field{year}{2008}
+      \field{pages}{2051\bibrangedash 2065}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.2135/cropsci2008.03.0134
+      \endverb
+    \endentry
+    \entry{stansfield85}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f749aa1e0ada8e43df718308abf9a4d}{%
+           family={Stansfield},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f749aa1e0ada8e43df718308abf9a4d}
+      \strng{fullhash}{0f749aa1e0ada8e43df718308abf9a4d}
+      \strng{bibnamehash}{0f749aa1e0ada8e43df718308abf9a4d}
+      \strng{authorbibnamehash}{0f749aa1e0ada8e43df718308abf9a4d}
+      \strng{authornamehash}{0f749aa1e0ada8e43df718308abf9a4d}
+      \strng{authorfullhash}{0f749aa1e0ada8e43df718308abf9a4d}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Sports Turf Res. Inst.}
+      \field{title}{A survey of {pH}, phosphate, and potash levels in soil samples taken from golf and bowling greens}
+      \field{volume}{61}
+      \field{year}{1985}
+      \field{pages}{136\bibrangedash 140}
+      \range{pages}{5}
+    \endentry
+    \entry{stowell2012}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=5d0e4c90b29813ad9a9998454aaf5268}{%
+           family={Stowell},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=87b9f8be3694c21b98c3faf861914586}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{52da7f03b9c1c5aa47bd6974a7e459a7}
+      \strng{fullhash}{52da7f03b9c1c5aa47bd6974a7e459a7}
+      \strng{bibnamehash}{52da7f03b9c1c5aa47bd6974a7e459a7}
+      \strng{authorbibnamehash}{52da7f03b9c1c5aa47bd6974a7e459a7}
+      \strng{authornamehash}{52da7f03b9c1c5aa47bd6974a7e459a7}
+      \strng{authorfullhash}{52da7f03b9c1c5aa47bd6974a7e459a7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {B}ouyoucos {C}onference on the Advances in Research on Soil Biological, Chemical and Physical Properties for Sustainable Constructed Rootzones}
+      \field{month}{5}
+      \field{title}{Minimum levels for sustainable nutrition ({MLSN})}
+      \field{year}{2012}
+      \field{pages}{21}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.paceturf.org/PTRI/Documents/Bouyoucos.pdf#page=21
+      \endverb
+      \verb{url}
+      \verb http://www.paceturf.org/PTRI/Documents/Bouyoucos.pdf#page=21
+      \endverb
+    \endentry
+    \entry{stowell2014}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=5d0e4c90b29813ad9a9998454aaf5268}{%
+           family={Stowell},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=87b9f8be3694c21b98c3faf861914586}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9a488ebace163daedfb91d966d32b929}{%
+           family={Gelernter},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aee4d46a2b77bc235c7409f839be99c}
+      \strng{fullhash}{1bffde2924cf51e039e6ccdd804bb8c0}
+      \strng{bibnamehash}{5aee4d46a2b77bc235c7409f839be99c}
+      \strng{authorbibnamehash}{5aee4d46a2b77bc235c7409f839be99c}
+      \strng{authornamehash}{5aee4d46a2b77bc235c7409f839be99c}
+      \strng{authorfullhash}{1bffde2924cf51e039e6ccdd804bb8c0}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{CSSA} Annual Meeting Abstracts}
+      \field{title}{Only what the turf needs: updating the minimum levels for sustainable nutrition ({MLSN}) guidelines}
+      \field{year}{2014}
+    \endentry
+    \entry{turner1978}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5c22b5d422608489815a2091442693a8}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bbd6fc9b2731be86d977e2f2ee5ec7f3}{%
+           family={Waddington},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{a932977e8c538c9b8b54a2debe178977}
+      \strng{fullhash}{a932977e8c538c9b8b54a2debe178977}
+      \strng{bibnamehash}{a932977e8c538c9b8b54a2debe178977}
+      \strng{authorbibnamehash}{a932977e8c538c9b8b54a2debe178977}
+      \strng{authornamehash}{a932977e8c538c9b8b54a2debe178977}
+      \strng{authorfullhash}{a932977e8c538c9b8b54a2debe178977}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comm. Soil Sci. Plant Anal.}
+      \field{number}{1}
+      \field{title}{Survey of soil testing programs for turfgrasses}
+      \field{volume}{9}
+      \field{year}{1978}
+      \field{pages}{71\bibrangedash 87}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1080/00103627809366789
+      \endverb
+    \endentry
+    \entry{woods-peerj-2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=87b9f8be3694c21b98c3faf861914586}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5d0e4c90b29813ad9a9998454aaf5268}{%
+           family={Stowell},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9a488ebace163daedfb91d966d32b929}{%
+           family={Gelernter},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{fullhash}{b1dd8b8c6277361168e40ce4fe9ba304}
+      \strng{bibnamehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{authorbibnamehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{authornamehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{authorfullhash}{b1dd8b8c6277361168e40ce4fe9ba304}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PeerJ Preprints}
+      \field{title}{Minimum soil nutrient guidelines for turfgrass developed from {Mehlich} 3 soil test results}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.7287/peerj.preprints.2144v1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.7287/peerj.preprints.2144v1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.7287/peerj.preprints.2144v1
+      \endverb
+    \endentry
+    \entry{woods_gssdata2020}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=87b9f8be3694c21b98c3faf861914586}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5d0e4c90b29813ad9a9998454aaf5268}{%
+           family={Stowell},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9a488ebace163daedfb91d966d32b929}{%
+           family={Gelernter},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{fullhash}{b1dd8b8c6277361168e40ce4fe9ba304}
+      \strng{bibnamehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{authorbibnamehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{authornamehash}{9786528b1c3af71a512657e41a7365fb}
+      \strng{authorfullhash}{b1dd8b8c6277361168e40ce4fe9ba304}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Global Soil Survey data}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.17605/OSF.IO/RG49P
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
